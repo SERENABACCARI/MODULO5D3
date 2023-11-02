@@ -17,7 +17,6 @@ export default function MyNav() {
             <Nav.Link href="#">About</Nav.Link>
             <NavDropdown title="Dropdown" id="basic-nav-dropdown">
               <NavDropdown.Item href="#">Browse</NavDropdown.Item>
-      
             </NavDropdown>
           </Nav>
         </Navbar.Collapse>
